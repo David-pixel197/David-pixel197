@@ -56,5 +56,3 @@ Acredito que a tecnologia tem o poder de transformar o mundo, e estou sempre em 
 ---
 
 Feito com ❤️ por **David Ramos**.
-
-![Snake animation](https://github.com/David-pixel197/blob/output/github-contribution-grid-snake.svg)
